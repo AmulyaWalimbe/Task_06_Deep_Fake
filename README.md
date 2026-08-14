@@ -29,5 +29,4 @@ The most surprising finding was that a purpose-built voice deepfake detector (de
 - `artifact2_coach_narrative_AI_VIDEO_did_lovo.mp4` - synthetic video, D-ID avatar driven by LOVO audio
 - `process log.pdf` - tools, versions, settings, iteration notes, time spent
 - `evaluation.pdf` - critical evaluation of each artifact + detection/provenance check
-- `screenshots/` - tool settings screenshots and detection report screenshots
 - `README.md` - this file
